@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BinaryPogs/EddiePortfolioApp/static/css/main.7996d8ad.css",
+    "main.js": "/BinaryPogs/EddiePortfolioApp/static/js/main.ed53f694.js",
+    "static/media/bp-logo.png": "/BinaryPogs/EddiePortfolioApp/static/media/bp-logo.4e846c3c0852b21535fb.png",
+    "static/media/helvetica-neu.ttf": "/BinaryPogs/EddiePortfolioApp/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/BinaryPogs/EddiePortfolioApp/static/media/logo_sub.00d1a774f07858b25780.png",
+    "static/media/LaBelleAurore.woff2": "/BinaryPogs/EddiePortfolioApp/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/BinaryPogs/EddiePortfolioApp/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/BinaryPogs/EddiePortfolioApp/index.html",
+    "main.7996d8ad.css.map": "/BinaryPogs/EddiePortfolioApp/static/css/main.7996d8ad.css.map",
+    "main.ed53f694.js.map": "/BinaryPogs/EddiePortfolioApp/static/js/main.ed53f694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7996d8ad.css",
+    "static/js/main.ed53f694.js"
+  ]
+}
