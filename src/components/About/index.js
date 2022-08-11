@@ -1,5 +1,6 @@
 import './index.scss'
 import AnimatedLetters from '../AnimatedLetters'
+import Loader from 'react-loaders'
 import { useEffect, useState } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
@@ -10,9 +11,13 @@ import {
     faJsSquare,
     faReact,
   } from '@fortawesome/free-brands-svg-icons'
+
+
+
   const About = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
     return (
+        <>
         <div className='container about-page'>
             <div className='text-zone'>
             
@@ -64,6 +69,8 @@ import {
                 </div>
             </div>
         </div>
+        <Loader type="pacman" />
+        </>
     )
 }
 
