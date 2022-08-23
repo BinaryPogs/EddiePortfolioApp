@@ -37,9 +37,11 @@ const Home = () => {
             />
           </h1>
           <h2>Python / JavaScript / Java</h2>
+          <div class="skill-zone">
           <Link to="/contact" className="flat-button">
             CONTACT ME
           </Link>
+          </div>
         </div>
       </div>
       <Loader type="pacman"/>
