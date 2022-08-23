@@ -3,7 +3,7 @@ import { faCheck } from '@fortawesome/free-solid-svg-icons'
 import React from 'react';
 import './index.scss'
 
-const Form = ({ setInputText, todos, setTodos, inputText }) => {
+const Form = ({ setInputText, todos, setTodos, inputText, setStatus }) => {
     //Here I can write javascript code and functions
     const inputTextHandler = (e) => {
         setInputText(e.target.value);
@@ -15,9 +15,12 @@ const Form = ({ setInputText, todos, setTodos, inputText }) => {
             ...todos, {text: inputText, completed: false, id: Math.random() * 1000}
         ]);
         setInputText('');
-        
-
     }
+
+    const statusHandler = (e) => {
+        setStatus(e.target.value);
+    }
+
     return (
         <form>
             <input value={inputText} onChange={inputTextHandler} type="text" className="todo-input"/>
@@ -25,7 +28,7 @@ const Form = ({ setInputText, todos, setTodos, inputText }) => {
             <FontAwesomeIcon icon={faCheck} color="4d4d4e"/>
             </button>
             <div className="select">
-                <select name="todos" className="filter-todo">
+                <select onChange={statusHandler} name="todos" className="filter-todo">
                     <option value="all">All</option>
                     <option value="completed">Completed</option>
                     <option value="uncompleted">Uncompleted</option>
