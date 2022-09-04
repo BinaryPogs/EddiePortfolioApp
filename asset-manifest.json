@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/EddiePortfolioApp/static/css/main.b9de3a9d.css",
-    "main.js": "/EddiePortfolioApp/static/js/main.6e653c0b.js",
+    "main.js": "/EddiePortfolioApp/static/js/main.15833830.js",
     "static/media/bp-logo.png": "/EddiePortfolioApp/static/media/bp-logo.4e846c3c0852b21535fb.png",
     "static/media/helvetica-neu.ttf": "/EddiePortfolioApp/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/logo_sub.png": "/EddiePortfolioApp/static/media/logo_sub.00d1a774f07858b25780.png",
@@ -9,10 +9,10 @@
     "static/media/CoolveticaRg-Regular.woff2": "/EddiePortfolioApp/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/EddiePortfolioApp/index.html",
     "main.b9de3a9d.css.map": "/EddiePortfolioApp/static/css/main.b9de3a9d.css.map",
-    "main.6e653c0b.js.map": "/EddiePortfolioApp/static/js/main.6e653c0b.js.map"
+    "main.15833830.js.map": "/EddiePortfolioApp/static/js/main.15833830.js.map"
   },
   "entrypoints": [
     "static/css/main.b9de3a9d.css",
-    "static/js/main.6e653c0b.js"
+    "static/js/main.15833830.js"
   ]
 }
