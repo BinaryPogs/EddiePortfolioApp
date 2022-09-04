@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/EddiePortfolioApp/static/css/main.eba935da.css",
+    "main.css": "/EddiePortfolioApp/static/css/main.caff477f.css",
     "main.js": "/EddiePortfolioApp/static/js/main.6e653c0b.js",
     "static/media/bp-logo.png": "/EddiePortfolioApp/static/media/bp-logo.4e846c3c0852b21535fb.png",
     "static/media/helvetica-neu.ttf": "/EddiePortfolioApp/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -8,11 +8,11 @@
     "static/media/LaBelleAurore.woff2": "/EddiePortfolioApp/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/EddiePortfolioApp/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/EddiePortfolioApp/index.html",
-    "main.eba935da.css.map": "/EddiePortfolioApp/static/css/main.eba935da.css.map",
+    "main.caff477f.css.map": "/EddiePortfolioApp/static/css/main.caff477f.css.map",
     "main.6e653c0b.js.map": "/EddiePortfolioApp/static/js/main.6e653c0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.eba935da.css",
+    "static/css/main.caff477f.css",
     "static/js/main.6e653c0b.js"
   ]
 }
