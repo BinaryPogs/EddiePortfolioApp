@@ -3,7 +3,7 @@ import './index.scss'
 import LogoE from '../../assets/images/bp-logo.png'
 import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faEnvelope, faHome, faUser, faFileWaveform } from '@fortawesome/free-solid-svg-icons'
+import { faEnvelope, faHome, faUser, faFileWaveform, faCode } from '@fortawesome/free-solid-svg-icons'
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons'
 
 const Sidebar = () => (
@@ -35,6 +35,9 @@ const Sidebar = () => (
             <li>
                 <a target="_blank" rel='noreferrer' href='https://github.com/BinaryPogs'>
                     <FontAwesomeIcon icon={faGithub} color="4d4d4e" />
+                </a>
+                <a target="_blank" rel='noreferrer' href='https://leetcode.com/Eddie_Zeng/'>
+                    <FontAwesomeIcon icon={faCode} color="4d4d4e" />
                 </a>
             </li>   
         </ul>
